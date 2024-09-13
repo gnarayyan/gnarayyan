@@ -11,8 +11,10 @@ Welcome to my GitHub profile! I'm a **Computer Engineering Student** passionate 
 **Languages & Frameworks:**
 ![C](https://img.shields.io/badge/-C-000000?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) 
 
+**Mobile Development:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
+
 **Web Development:**
- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092D40?logo=django&logoColor=white)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
+ ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092D40?logo=django&logoColor=white)  
 
 **Version Control:**
  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
@@ -29,7 +31,7 @@ Welcome to my GitHub profile! I'm a **Computer Engineering Student** passionate 
 
 ### 🌐 **Featured Projects**
 
-- **NepBiz**: A e-commerce site for Trekking Gears. A college project for Nepal Engineering College Final Year Project - [Explore it here](https://github.com/gnarayyan/NepBiz) 
+- **MindMorph**: A MOOC platform providing a similar service to such as Udemy, which can stream high-definition video content to users on a variety of devices, including smartphones, tablets, and smart TVs. The platform uses adaptive bitrate streaming technology to ensure smooth playback and optimal quality, based on the user's device and network conditions.. A college project for Nepal Engineering College Final Year Project - [Explore it here](https://github.com/gnarayyan/MindMorphFrontend) 
 
 ---
 
