@@ -21,6 +21,10 @@ Welcome to my GitHub profile! I'm a **Computer Engineering Student** passionate 
 
 ---
 
+### Analytics
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnarayyan&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnarayyan&layout=compact&theme=default)
+
 ### 🔍 **Currently Exploring**
 
 - **Apps & Interfaces:** Crafting engaging applications with Flutter & React  
